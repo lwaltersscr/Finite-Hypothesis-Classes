@@ -1,1 +1,1 @@
-# Finite-Hypothesis-Classes2
+# Finite-Hypothesis-Classes
